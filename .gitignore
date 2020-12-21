@@ -1,0 +1,9 @@
+secrets.sh
+*.pyc
+env/
+generate-secret-key.py
+idea/
+psql.log
+AllPrintings*
+mtgAllPrintings*
+
